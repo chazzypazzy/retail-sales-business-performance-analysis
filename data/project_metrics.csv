@@ -1,0 +1,18 @@
+metric,value,unit_or_format,context
+Net sales,40.10,million INR,Headline dashboard KPI
+Profit,8.95,million INR,Headline dashboard KPI
+Invoices,575,count,Headline dashboard KPI
+Customers,364,count,Headline dashboard KPI
+Units sold,2426,units,Discount analysis table
+Profit margin,22.33,percent,Headline dashboard KPI
+Sales in 10-20% discount band,13.16,million INR,Discount analysis
+Units sold in 10-20% discount band,749,units,Discount analysis
+October 2025 sales,37.57,lakh INR,Seasonality slide
+Diwali Mega Sale net sales,6.64,million INR,Seasonality slide
+Multi-item orders,397,count,Basket analysis
+Single-item orders,178,count,Basket analysis
+Average basket size,4.22,items,Basket analysis
+Cancelled orders,57,count,Returns and leakage slide
+Returned orders,37,count,Returns and leakage slide
+Associated revenue leakage,33.25,lakh INR,Returns and leakage slide
+Electronics share of return/cancellation revenue,59,approx. percent,Returns and leakage slide
